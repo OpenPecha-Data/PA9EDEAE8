@@ -49,3 +49,8 @@ source_metadata:
       parent: Water Offering
 created_at: '2022-03-01T05:00:22.324690'
 last_modified_at: '2022-03-01T05:00:22.324692'
+statistics:
+  total_words: 7142
+  total_non_words: 817
+quality:
+  non_words_ratio: 0.11
